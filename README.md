@@ -1,2 +1,2 @@
-# Everyday-Aesthetics
-Online menu for Everyday Aesthetics, written in PHP, HTML/CSS
+# Recipebook
+Online recipebook built on Express framework in Node.js, MongoDB
